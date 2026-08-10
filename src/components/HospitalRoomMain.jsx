@@ -99,8 +99,8 @@ if (showDoorLock) {
         onClick={handleDoorClick}
         style={{
           position: "absolute",
-          right: "0px",
-          width: "300px",  
+          right: "0%",
+          width: "75%",  
           cursor: "pointer",
         }}
       />
@@ -125,7 +125,7 @@ if (showDoorLock) {
             position: "absolute",
             left: "20%",
             bottom: "20%",
-            width: "100px",
+            width: "30%",
             cursor: "pointer",
           }}
         />
@@ -136,10 +136,10 @@ if (showDoorLock) {
       alt="문서"
       onClick={handleDocumentClick}
       style={{
-       width: "130px",
+       width: "30%",
     position: "absolute",
-    bottom: "0px",
-    left: "0px",
+    bottom: "0%",
+    left: "0%",
     zIndex: 4,
       }}
     />
