@@ -78,6 +78,7 @@ function DialogBox({ dialogs, onFinish }) {
 
     color: "black",
     fontSize: "18px",
+    fontFamily: "neodgm",
   }}
 >
   {name}
@@ -95,6 +96,7 @@ function DialogBox({ dialogs, onFinish }) {
 
     color: "black",
     fontSize: "20px",
+    fontFamily: "neodgm",
     lineHeight: "1.6",
     textAlign: "left",
 

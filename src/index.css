@@ -1,3 +1,10 @@
+@font-face {
+  font-family: "neodgm";
+  src: url("./assets/font/neodgm.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
 :root {
   --text: #6b6375;
   --text-h: #08060d;
